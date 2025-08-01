@@ -1,16 +1,18 @@
-# 🧠 Quiz App
+# 🧮 Marks Calculator
 
-A simple and interactive web-based quiz application that tests users' knowledge with multiple-choice questions. Built with HTML, CSS, and JavaScript.
+<br>
+
+A simple web-based marks calculator built using HTML, CSS, and JavaScript.  
+This tool allows users to input multiple subject scores and calculates the total and average marks instantly.
 
 <br>
 
 ## 🚀 Features
 
-- Multiple-choice questions
-- Score tracking system
-- Real-time feedback on answers
-- Final results display
-- Responsive and user-friendly design
+- Enter marks for multiple subjects
+- Calculates total and average marks
+- Handles empty or invalid inputs gracefully
+- Clean and responsive design
 
 <br>
 
